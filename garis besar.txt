@@ -1,0 +1,1 @@
+bahasa C atau dibaca “si” adalah bahasa pemrograman tingkat tinggi dan general-purpose yang digunakan dalam sehari-hari. Maksud dari general-purpose adalah bisa digunakan untuk membuat program apa saja.
